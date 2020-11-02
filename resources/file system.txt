@@ -1,0 +1,10 @@
+https://www.guru99.com/linux-redirection.html
+
+Linux Kernel
+https://linuxhint.com/linux-kernel-tutorial-beginners/
+
+File System
+https://www.linux.com/training-tutorials/linux-filesystem-explained/
+https://opensource.com/life/16/10/introduction-linux-filesystems
+https://www.pathname.com/fhs/pub/fhs-2.3.pdf
+https://www.cyberciti.biz/tips/what-is-devshm-and-its-practical-usage.html

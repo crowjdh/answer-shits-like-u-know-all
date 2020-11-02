@@ -1,0 +1,25 @@
+some commands
+ - top
+ - find
+ - grep
+ - awk
+ - xargs
+
+iptable
+network interfaces(including virtual ones such as docker)
+how network communication is made(in depth, including osi 7 layer)
+
+Encodings
+GPG
+
+linux boot level, boot sequence
+file system(structure, /usr/local/bin, /usr/local/sbin, /usr/sbin, )
+everything is file(socket, devices, ...)
+how file is structured
+ - file descripter
+ - file header
+ - stdin/out/err, dev/null, dev/zero, redirect...(see https://www.gnu.org/software/bash/manual/html_node/Redirections.html)
+bash(history, bash_profile, profile, bashrc, ...), auto complete
+user, group and file permissions
+process(ownership, how to use htop)
+package manager(where does it installed, what kind of process is being done while installing, how much files are being made/touched, how to configure mirror, why some packages need a dedicated repo)
